@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayRam
 - 👀 I’m interested in Ethical hacking, Cyber Defence & Cryptanalysis Automation
-- 🌱 I’m currently learning KALI LINUX
+- 🌱 I’m currently learning Digital-forensics, KALI LINUX, Malware analysis,
 - 💞️ I’m looking to collaborate on Cryptanalysis-Automation challenges & Open-source security projects
 - 📫 How to reach me [mail id:-jayaramlalam0612@gmail.com, Linkedin:-https://www.linkedin.com/in/jayaram-lalam-2359b42b9
 - 😄 Pronouns:He/Him
